@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pratik kumar
-- I’m interested in development and stuff.
+- I’m interested in development and problem solving.
 - I’m currently learning MERN stack.
