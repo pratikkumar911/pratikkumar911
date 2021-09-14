@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik kumar</h1>
 <h3 align="center">A passionate wed developer from India. An alien with ∞ curiosity.</h3>
 
-- 🌱 I’m currently learning **Full stack**
+- 🌱 I’m currently learning **Whatever thats new, but not full stack**
 
 - 👨‍💻 All of my projects are available at [pratik-codes.herokuapp.com/](pratik-codes.herokuapp.com/)
 
