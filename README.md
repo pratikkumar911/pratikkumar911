@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Whatever thats new, but main target to master full stack**(as much as I can)
 
-- 👨‍💻 All of my projects are available at [pratik-codes.herokuapp.com/](pratik-codes.herokuapp.com/)
+- 👨‍💻 My personal website- [pratik-codes.herokuapp.com/](pratik-codes.herokuapp.com/)
 
 - 📫 How to reach me **light.moon42000@gmail.com**
 
