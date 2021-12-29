@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT JS**(who the hell does fullstack)
 
-- 👨‍💻 My personal website- [pratik-codes.herokuapp.com/](pratik-codes.herokuapp.com/)
+- 👨‍💻 My personal website- [pratik-codes](https://pratik-codes.herokuapp.com/)
 
 - 📫 How to reach me **light.moon42000@gmail.com**
 
