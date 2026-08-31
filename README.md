@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pratik kumar</h1>
-<h3 align="center">A passionate wed developer from India. An alien with ∞ curiosity.</h3>
-
-- 🌱 I’m currently learning **REACT JS**(who the hell does fullstack)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
